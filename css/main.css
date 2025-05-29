@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.oneblock {
+    position: relative;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2em;
+    color: white;
+    background-color: black;
+    height: 500px;
+    margin: 0;
+}
+
+.twoblock {
+    position: relative;
+    text-align: center;
+    font-size: 2em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: yellow;
+    height: 500px;
+    margin: 0;
+}
+
+.threeblock {
+    position: relative;
+    text-align: center;
+    font-size: 2em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: black;
+    height: 500px;
+    margin: 0;
+}
+.fourblock{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(35, 35, 35);
+    height: 200px;
+    margin: 0;
+}
+
+
+.onetext {
+    position: absolute;
+    top: 2px;
+}
+.twotext {
+    position: absolute;
+    top: 50px;
+}
+.threetext {
+    position: absolute;
+    top: 50px;
+}
+.fourtext {
+    text-align: center;
+
+
+}
